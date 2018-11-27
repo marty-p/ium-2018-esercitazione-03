@@ -1,4 +1,4 @@
-package com.example.studente.myapplication;
+package com.example.davide.piechart;
 
 import android.content.Context;
 import android.graphics.Canvas;

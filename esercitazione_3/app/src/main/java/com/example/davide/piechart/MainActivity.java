@@ -1,4 +1,4 @@
-package com.example.studente.myapplication;
+package com.example.davide.piechart;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
